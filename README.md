@@ -1,6 +1,6 @@
-# Learning Experience Designer
+<h1>Learning Experience Designer</h1> 
 
-## About Me 
+<h2>About Me</h2>
 Passionate learning experience designer with a proven track record of creating engaging and effective educational content. I specialize in designing innovative learning solutions that meet the unique needs of diverse audiences.
 <hr>
 <h2>Skills and Expertise</h2>
@@ -17,11 +17,11 @@ M.S. in Instructional Design and Technology<br>Georgia State University<br>
 B.S. in Psychology<br>Georgia State University
 <hr>
 
-### Work Experience
+<h3>Work Experience</h3> 
 Red Hat Inc.<br>Independent Contractor<br>Educator
 <hr>
 
-### Projects
+<h3>Projects</h3>
 <h4>Wellness Project</h4>
 To develop this learning experience, my team and I conducted a needs analysis, utilizing the ADDIE model as a structured framework. We conducted interviews with  learners to identify knowledge gaps, skill deficiencies, and training objectives. These insights informed the design of the <a href= https://portfolium.com/entry/wellness-during-covid-19>learning experience <a/>, ensuring that it effectively addressed the identified needs.
 
