@@ -23,7 +23,7 @@ Red Hat Inc.<br>Independent Contractor<br>Educator
 
 ### Projects
 <h4>Wellness Project</h4>
-To develop this learning experience, my team and I conducted a needs analysis, utilizing the ADDIE model as a structured framework. We conducted interviews with  learners to identify knowledge gaps, skill deficiencies, and training objectives. These insights informed the design of the <a href= https://portfolium.com/entry/wellness-during-covid-19>learning experience<a/>, ensuring that it effectively addressed the identified needs.
+To develop this learning experience, my team and I conducted a needs analysis, utilizing the ADDIE model as a structured framework. We conducted interviews with  learners to identify knowledge gaps, skill deficiencies, and training objectives. These insights informed the design of the <a href= https://portfolium.com/entry/wellness-during-covid-19>learning experience <a/>, ensuring that it effectively addressed the identified needs.
 
 <h4>Explainer Video</h4>
 This SCORM-related module, developed within a broader project, showcases my expertise in using video to simplify complex terminology and enhance learning. 
