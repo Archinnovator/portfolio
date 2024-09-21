@@ -31,7 +31,6 @@ This SCORM-related module, developed within a broader project, showcases my expe
 
 <h4>AI Tool Integration</h4>
 This project showcases my proficiency in leveraging AI tools, such as Synthesia, to develop personalized and engaging learning experiences. Through the creation of customized avatars and realistic scenarios.
-<p><div style="width: 560px; height: 315px; position: relative; overflow: hidden;">
-  <iframe src="https://share.synthesia.io/embeds/videos/2c6c45aa-1d18-47df-b4bd-03d544eccb4e" loading="lazy" title="Synthesia video player - Empathy in Leadership: A Discussion" allowfullscreen allow="encrypted-media; fullscreen;" style="position: absolute; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe>
-</div></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/cDzQDU79vUM?si=Yr9XwmYGu-zt5P3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ 
 
