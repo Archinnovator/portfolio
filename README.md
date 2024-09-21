@@ -1,29 +1,31 @@
 # Learning Experience Designer
 
-## About Me: 
+## About Me 
 Passionate learning experience designer with a proven track record of creating engaging and effective educational content. I specialize in designing innovative learning solutions that meet the unique needs of diverse audiences.
+<hr>
+<h2>Skills and Expertise</h2>
+Proficient in Adobe Creative Suite (Photoshop, Illustrator, InDesign), AI tool integration, Articulate Storyline, Sana Labs, and various LMS platforms. Skilled in Instructional Design methodologies, User Experience (UX), Design Principles, and Accessibility Standards.
 
-### Skills and Expertise
-Proficient in Adobe Creative Suite (Photoshop, Illustrator, InDesign), Articulate Storyline, Sana Labs, and various LMS platforms. Skilled in instructional design methodologies, user experience (UX) design principles, and accessibility standards.
+<h2>Design Skills</h2>
+Expertise in Instructional Design theories (ADDIE, SAM, Bloom's Taxonomy), Visual Design principles, and User Interface (UI) design. Experienced in creating interactive content, simulations, and gamified learning experiences.
 
-### Design Skills
-Expertise in instructional design theories (ADDIE, SAM, Bloom's Taxonomy), visual design principles, and user interface (UI) design. Experienced in creating interactive content, simulations, and gamified learning experiences.
-
-### Soft Skills
+<h2>Soft Skills</h2>
 Strong communication, problem-solving, and project management skills. Ability to collaborate effectively with cross-functional teams and adapt to changing requirements.
-
-### Education
-M.S. in Instructional Design and Technology
-<p>Georgia State University</p>
+<hr>
+<h2>Education</h2>
+M.S. in Instructional Design and Technology<br>Georgia State University<br>
+B.S. in Psychology<br>Georgia State University
+<hr>
 
 ### Work Experience
-Red Hat Inc.
-Independent Contractor
+Red Hat Inc.<br>Independent Contractor<br>Educator
+<hr>
 
 ### Projects
 <h4>Wellness Project</h4>
 To develop this learning experience, my team and I conducted a needs analysis, utilizing the ADDIE model as a structured framework. We conducted interviews with  learners to identify knowledge gaps, skill deficiencies, and training objectives. These insights informed the design of the learning experience, ensuring that it effectively addressed the identified needs.
-<p><a href ="https://storage.googleapis.com/bryantrises/wellness-during-covid-19-raw-1_GNyCWl/content/index.html#/>Select to connect to the project.</a></p>
+<p><div class="portfolium-entry-widget" data-id="2238606" data-width="300"></div>
+<script src="https://portfolium.com/assets/js/portfolium.js" async></script></p>
 
 <h4>Explainer Video</h4>
 This SCORM-related module, developed within a broader project, showcases my expertise in using video to simplify complex terminology and enhance learning. 
